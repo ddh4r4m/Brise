@@ -9,5 +9,7 @@ Breeze theme for LIghtly
 
 ### Manual Installation
 copy the folders to ~/.local/share/plasma/desktoptheme
+
 copy the folders to ~/.local/share/plasma/look-and-feel
+
 copy the folders to ~/.local/share/plasma/color-schemes
