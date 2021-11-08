@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment=A simple Dark Plasma Theme based on Breeze
+Name=Brise-dark
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+
+Type=Service
+
+X-KDE-PluginInfo-Author=DharamDhurandhar
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=rkstrdee@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=Brise-dark
+X-KDE-PluginInfo-Version=2.1
+X-KDE-PluginInfo-Website=https://github.com/rkstrdee/Brise
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1627229,kns://plasma-themes.knsrc/api.kde-look.org/1627230
